@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.665f50ae.js",
-    "index.html": "/index.html",
-    "main.665f50ae.js.map": "/static/js/main.665f50ae.js.map"
+    "main.js": "/live-chat/static/js/main.665f50ae.js",
+    "index.html": "/live-chat/index.html",
+    "main.665f50ae.js.map": "/live-chat/static/js/main.665f50ae.js.map"
   },
   "entrypoints": [
     "static/js/main.665f50ae.js"
